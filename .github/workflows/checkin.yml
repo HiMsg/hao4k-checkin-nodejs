@@ -1,6 +1,6 @@
 name: hao4k-checkin-nodejs
 
-on:
+#on:
   # workflow_dispatch 事件允许您手动触发工作流程
   workflow_dispatch: 
     # 可以进行配置手动触发后有选项进行触发
